@@ -4,6 +4,7 @@ Optimizing seating arrangements with neural networks
 <div align="center">
     <img width="40%" src="https://github.com/faezeh-gholamrezaie/seating-arrangement-neural-network/blob/main/EfficientSeating.jpg">
 </div>
+
 ## Project Description:
 
 This repository hosts a solution for optimizing seating arrangements using neural network techniques. The neural network is trained to select seating orders that minimize discrepancies among individuals, promoting fair and efficient allocation of seats in scenarios such as classrooms or events.
