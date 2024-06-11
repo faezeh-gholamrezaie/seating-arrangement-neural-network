@@ -13,5 +13,4 @@ This repository hosts a neural network-based solution for optimizing seating arr
 * Neural network-based solution for seating arrangement optimization.
 * Training model to minimize differences among individuals in seating arrangements.
 * Automated allocation of seats for various scenarios.
-* Scalable and adaptable for different seating arrangements and group sizes.
-* Suitable for classrooms, events, conferences, and more.
+
